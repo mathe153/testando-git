@@ -7,3 +7,7 @@ let valorgasto = litrosConsumidos * combustivel
 
 
 console.log(valorgasto.toFixed(2)) 
+
+
+
+/* fazendo mais uma modificação aqui para teste*/
