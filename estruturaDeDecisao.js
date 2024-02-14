@@ -14,3 +14,6 @@ switch (fruta){
             default :
             console.log('suco de muracuja')
 }
+
+
+/* mais um teste de commit */
