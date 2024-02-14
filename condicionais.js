@@ -25,3 +25,5 @@ else if(nivelDeFome === 2){
 else{
     console.log('fome de uns quatro mendigos')
 }
+
+/* exercicio de fixação de github*/
