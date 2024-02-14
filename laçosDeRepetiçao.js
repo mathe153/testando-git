@@ -36,3 +36,6 @@ for(let i = 0; i <=10; i++){
 
 /*testando agumas edições para subir para o github*/
 
+let alterandoAlgunsDados = ' subindo, '
+
+console.log(alterandoAlgunsDados + 'teste bem sucedido')
