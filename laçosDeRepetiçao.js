@@ -31,7 +31,7 @@ let dinheiro = 0
 
 for(let i = 0; i <=10; i++){
     dinheiro +=1
-    console.log(" roubou um banco " + i)
+    console.log(" cheio da grana " + i)
 }
 
 /*testando agumas edições para subir para o github*/
