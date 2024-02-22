@@ -14,7 +14,7 @@ else if(saldoRanckeadas <=20 ){
 else if (saldoRanckeadas <=50 ){
     console.log('o jogador tem saldo de ' + saldoRanckeadas + ' vitorias, e esta no nivel prata')
 }   
-else if (saldoRanckeadas >=50 ){
+else if (saldoRanckeadas >=50  ){
     console.log('o jogador tem saldo de ' + saldoRanckeadas + " vitorias, e esta no nivel ouro")
 }
 else{
